@@ -1,0 +1,12 @@
+#routLink{
+  padding: 5px 10px;
+  text-decoration: cornflowerblue;
+  margin-top: 10px;
+  display: inline-block;
+  background-color: bisque;
+  border-radius: 4px;
+}
+
+#page{
+  background-color: rgba(204,212,213,0.96);
+}
